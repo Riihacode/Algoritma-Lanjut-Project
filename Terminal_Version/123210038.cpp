@@ -28,25 +28,34 @@ yang menyerupai Array 2D. Contohnya seperti di bawah ini, yaitu:
     for (int i = 0; i < folderCount; i++) {
         cout << "Folder: " << folders[i].name << endl;
         for (int j = 0; j < folders[i].fileCount; j++) {
-            cout << "- " << folders[i].files[j].name << " (" << folders[i].files[j].size << " KB)" << endl;
+            cout << "- " << folders[i].files[j].name 
+                 << " (" << folders[i].files[j].size << " KB)" 
+                 << endl;
         }
     }
 
 6) Rencana Lanjutan = 
     a) Rencana perbaikan kode:
-       - Mengimplementasikan array 2D secara penuh (jika memungkinkan).
-       - Mempelajari penggunaan pointer & rekursif untuk folder bertingkat (nested folder).
+       - Mengimplementasikan array 2D secara penuh (jika memungkinkan untuk 
+         diimplementasikan pada tema ini).
+       - Mempelajari penggunaan pointer & rekursif untuk folder bertingkat 
+         (nested folder).
+       - Perbaikan bug yang mungkin terlewatkan (jika memungkinkan).
     
     b) Rencana pengembangan ekstensi (optional):
        - Membuat aplikasi Android (Framework NDK + JNI) berdasarkan konsep 
-         manajemen direktori ini. Alasannya karena Android Studio IDE 
-         mendukung penggunaan C++ juga.
+         manajemen direktori ini. Alasannya karena Android Studio IDE juga
+         mendukung penggunaan C++.
        - Tujuannya untuk eksperimen native C++ tanpa mengakses storage 
          Android secara langsung.
-       - Namun, fokus utama tetap pada penyelesaian project C++ sebagai prioritas.
+       - Namun, fokus utama tetap pada penyelesaian project C++ sebagai 
+         prioritas.
 
     c) Source code pengembangan (jika diteruskan):
        - Link Github: 
+          - https://github.com/Riihacode/Algoritma-Lanjut-Project.git
+          - https://github.com/Riihacode/Algoritma-Lanjut-Project
+          
 
 */
 //######################  </CATATAN>  ##################################

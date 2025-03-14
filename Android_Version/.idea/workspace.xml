@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a946ca15-73ec-4f51-bea9-0caa7fc9d8a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/androidTest/java/com/development/directorymanagement/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/cpp/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/cpp/native-lib.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/java/com/development/directorymanagement/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/app/src/test/java/com/development/directorymanagement/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryManagement/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Terminal_Version/folder_file.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Riihacode"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Riihacode/Algoritma-Lanjut-Project.git",
+    "accountId": "f83dee51-3b8b-47a7-aea7-464d13e28bb6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2uJQNLrXHnLMJdco6RH8jX6VQu1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Autodidak_Learning/kuliah/projek kuliah/teori_algoritma_dan_pemrograman_lanjut/Android_Version"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a946ca15-73ec-4f51-bea9-0caa7fc9d8a3" name="Changes" comment="" />
+      <created>1741964155484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741964155484</updated>
+    </task>
+    <servers />
+  </component>
+</project>
