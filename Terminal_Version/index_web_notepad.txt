@@ -1,0 +1,1 @@
+Ini adalah konten dari file dummy: index_web_notepad.txt

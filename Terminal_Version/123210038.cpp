@@ -14,17 +14,20 @@ Kode Kelas = 20242
     diimplementasikan sedikit dimodifikasi (terutama untuk algoritma
     searching & algoritma sorting).
 
-2) Detail Implementasi pada program ini:
-    a. addFolder(), addFileToFolder(), generateInputData(), 
+2) Ketika menggunakan menu sorting (MENU UTAMA nomor 6) itu hasil 
+    dari operasi di dalamnya masih mempengaruhi ke MENU UTAMA nomor 2
 
-3) Ketika menggunakan menu sorting (MENU UTAMA nomor 6) itu hasil 
-dari operasi di dalamnya masih mempengaruhi ke MENU UTAMA nomor 2
+3) Function generateData() masih statis dan belum dinamis (ketika digu-
+    nakan itu belum dapat menambah )
 
-4) Function generateData() masih statis dan belum dinamis (ketika digu-
-nakan itu belum dapat menambah )
-
-5) Array 2D belum benar-benar digunakan, di sini hanya ada implementasi
-yang menyerupai Array 2D. Contohnya seperti di bawah ini, yaitu:
+4) Array 2D belum benar-benar digunakan, di sini hanya ada implementasi
+    yang menyerupai Array 2D karena sepertinya tidak cocok diimplementasikan
+    untuk kasus pada tema ini kecuali jika konsep implementasinya mau 
+    dipaksakan. Alasan tidak cocok karena ada implementasi tambah folder 
+    dan nantinya kemungkinan dibuat fitur pindah folder yang membutuhkan
+    pointer.
+        
+    Contohnya seperti di bawah ini, yaitu:
     for (int i = 0; i < folderCount; i++) {
         cout << "Folder: " << folders[i].name << endl;
         for (int j = 0; j < folders[i].fileCount; j++) {
@@ -34,7 +37,7 @@ yang menyerupai Array 2D. Contohnya seperti di bawah ini, yaitu:
         }
     }
 
-6) Rencana Lanjutan = 
+5) Rencana Lanjutan = 
     a) Rencana perbaikan kode:
        - Mengimplementasikan array 2D secara penuh (jika memungkinkan untuk 
          diimplementasikan pada tema ini).
