@@ -115,6 +115,7 @@ int main() {
     int choice;
 
     do {
+        cout << "Hello World \n\n\n";
         cout << "\n====== Menu Folder & File ======" << endl;
         cout << "1. Generate Tambah Folder & File (Input Struct & Array 2D) \n";
         cout << "2. Tambah Folder (Input Struct & Array 2D)\n";

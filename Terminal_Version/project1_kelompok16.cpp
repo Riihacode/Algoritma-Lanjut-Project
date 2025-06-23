@@ -14,28 +14,12 @@ Kode Kelas = 20242
     diimplementasikan sedikit dimodifikasi (terutama untuk algoritma
     searching & algoritma sorting).
 
-2) Detail Implementasi pada program ini:
-    a. addFolder(), addFileToFolder(), generateInputData(), 
+2) Detail Implementasi pada program ini dapat dilihat di line source code yang
+   diberikan comment `FUNCTION RE-DECLARATION`
 
-3) Ketika menggunakan menu sorting (MENU UTAMA nomor 6) itu hasil 
-dari operasi di dalamnya masih mempengaruhi ke MENU UTAMA nomor 2
-
-4) Function generateData() masih statis dan belum dinamis (ketika digu-
-nakan itu belum dapat menambah )
-
-5) Array 2D belum benar-benar digunakan, di sini hanya ada implementasi
-yang menyerupai Array 2D. Contohnya seperti di bawah ini, yaitu:
-    for (int i = 0; i < folderCount; i++) {
-        cout << "Folder: " << folders[i].name << endl;
-        for (int j = 0; j < folders[i].fileCount; j++) {
-            cout << "- " << folders[i].files[j].name << " (" << folders[i].files[j].size << " KB)" << endl;
-        }
-    }
-
-6) Rencana Lanjutan = 
-    a) Rencana perbaikan kode:
-       - Mengimplementasikan array 2D secara penuh (jika memungkinkan).
-       - Mempelajari penggunaan pointer & rekursif untuk folder bertingkat (nested folder).
+3) Rencana Lanjutan = 
+    a) Revisi perbaikan source code:
+       - Tidak ada
     
     b) Rencana pengembangan ekstensi (optional):
        - Membuat aplikasi Android (Framework NDK + JNI) berdasarkan konsep 
@@ -48,7 +32,7 @@ yang menyerupai Array 2D. Contohnya seperti di bawah ini, yaitu:
     c) Source code pengembangan (jika diteruskan):
        - Link Github: https://github.com/Riihacode/Algoritma-Lanjut-Project.git     (Ada kendala akun diminta untuk request 2FA, mungkin link ini salah kecuali kalau ada commit changes)
 
-7) Link Dokumentasi Projek Akhir
+4) Link Dokumentasi Projek Akhir
     https://drive.google.com/drive/folders/1sNteqa0RSvFEk3D-eNVDQX9JlSjGpDCS?usp=sharing
 
 */
